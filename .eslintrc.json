@@ -1,0 +1,45 @@
+{
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "plugins": ["react", "jsx-a11y", "import"],
+  "rules": {
+    "react/jsx-filename-extension": 0,
+    "indent": ["error", 2],
+    "quotes": ["error", "single"],
+
+    "no-nested-ternary": 0,
+
+    "import/no-unresolved": 2,
+    "import/extensions": 2,
+
+    "react/no-multi-comp": 0,
+    "react/prop-types": 0,
+    "no-restricted-syntax": 0,
+    "guard-for-in": 0,
+    "no-param-reassign": 0,
+    "no-underscore-dangle": 0,
+    "no-multi-assign": 0,
+    "func-names": 0,
+    "prefer-arrow-callback": 0,
+    "no-plusplus": 0,
+    "no-cond-assign": 0,
+    "max-len": 0,
+    "react/sort-comp": 0,
+    "react/no-unused-state": 0,
+    "no-unused-vars": 0,
+    "no-useless-escape": 0,
+    "class-methods-use-this": 0,
+    "import/no-extraneous-dependencies": 0,
+    "react/prefer-stateless-function": 0,
+    "no-mixed-operators": 0,
+    "no-continue": 0,
+    "import/no-mutable-exports": 0,
+    "no-new": 0,
+    "no-undef": 0,
+    "camelcase": 0
+  }
+}

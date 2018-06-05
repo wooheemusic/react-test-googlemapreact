@@ -1,0 +1,902 @@
+[
+  {
+    "id": "5b0510036922b22cab3413b6",
+    "lat": 37.557471,
+    "lng": 126.920929,
+    "address": "888 Mill Lane, Osage, New York, 7747",
+    "onfire": false,
+    "available": false,
+    "battery": 2
+  },
+  {
+    "id": "5b051003fb3d0ddfb39072eb",
+    "lat": 37.557245,
+    "lng": 127.015626,
+    "address": "865 Seton Place, Valmy, Alaska, 2403",
+    "onfire": false,
+    "available": true,
+    "battery": 50
+  },
+  {
+    "id": "5b051003be55b6daef1ac4a2",
+    "lat": 37.658362,
+    "lng": 127.031882,
+    "address": "603 Caton Avenue, Turah, Kentucky, 4652",
+    "onfire": false,
+    "available": true,
+    "battery": 79
+  },
+  {
+    "id": "5b0510037226402300e9219c",
+    "lat": 37.659218,
+    "lng": 126.94271,
+    "address": "295 Milton Street, Hobucken, Minnesota, 3573",
+    "onfire": false,
+    "available": true,
+    "battery": 97
+  },
+  {
+    "id": "5b051003ace0e524d36704ad",
+    "lat": 37.597211,
+    "lng": 127.048402,
+    "address": "645 Poly Place, Greensburg, Alabama, 7694",
+    "onfire": false,
+    "available": false,
+    "battery": 35
+  },
+  {
+    "id": "5b0510036f7483e65112b618",
+    "lat": 37.60631,
+    "lng": 127.000347,
+    "address": "390 Olive Street, Marshall, Georgia, 6630",
+    "onfire": false,
+    "available": true,
+    "battery": 91
+  },
+  {
+    "id": "5b0510033656f66ebd5d143f",
+    "lat": 37.517876,
+    "lng": 126.893246,
+    "address": "281 Caton Place, Coalmont, Palau, 5900",
+    "onfire": false,
+    "available": false,
+    "battery": 94
+  },
+  {
+    "id": "5b051003e1f0874c3a0a6afc",
+    "lat": 37.555436,
+    "lng": 126.913618,
+    "address": "596 Kansas Place, Lund, New Hampshire, 5354",
+    "onfire": false,
+    "available": true,
+    "battery": 41
+  },
+  {
+    "id": "5b0510030ab0ac22c982f0ad",
+    "lat": 37.52281,
+    "lng": 126.944938,
+    "address": "786 Lynch Street, Coultervillle, Arkansas, 9104",
+    "onfire": false,
+    "available": true,
+    "battery": 19
+  },
+  {
+    "id": "5b0510035d0bdd46a73f362c",
+    "lat": 37.545178,
+    "lng": 127.020132,
+    "address": "817 Opal Court, Walland, Indiana, 861",
+    "onfire": false,
+    "available": true,
+    "battery": 97
+  },
+  {
+    "id": "5b051003a457d6b7ef4cb459",
+    "lat": 37.64723,
+    "lng": 127.040718,
+    "address": "932 Cedar Street, Linganore, Guam, 3465",
+    "onfire": false,
+    "available": false,
+    "battery": 15
+  },
+  {
+    "id": "5b0510030d2cb1f0a1449369",
+    "lat": 37.651861,
+    "lng": 127.01247,
+    "address": "186 Lois Avenue, Rockingham, Maine, 2839",
+    "onfire": false,
+    "available": true,
+    "battery": 17
+  },
+  {
+    "id": "5b051003121c0af30a3e302a",
+    "lat": 37.533485,
+    "lng": 127.003437,
+    "address": "382 Ingraham Street, Linwood, American Samoa, 8938",
+    "onfire": false,
+    "available": false,
+    "battery": 56
+  },
+  {
+    "id": "5b051003ea4153be2510c126",
+    "lat": 37.650283,
+    "lng": 126.921027,
+    "address": "381 Boerum Street, Herald, Arizona, 3753",
+    "onfire": false,
+    "available": false,
+    "battery": 47
+  },
+  {
+    "id": "5b051003bf883f7002836b4e",
+    "lat": 37.538529,
+    "lng": 127.036213,
+    "address": "946 Celeste Court, Worcester, Puerto Rico, 9564",
+    "onfire": false,
+    "available": false,
+    "battery": 0
+  },
+  {
+    "id": "5b051003e6211d2699b38ef9",
+    "lat": 37.50987,
+    "lng": 126.891297,
+    "address": "938 Sullivan Place, Orovada, Nebraska, 7208",
+    "onfire": false,
+    "available": false,
+    "battery": 100
+  },
+  {
+    "id": "5b05100361f0599948d4292e",
+    "lat": 37.655759,
+    "lng": 126.935356,
+    "address": "630 Fayette Street, Tioga, Virginia, 737",
+    "onfire": false,
+    "available": false,
+    "battery": 77
+  },
+  {
+    "id": "5b051003a5b7bbd2ab6aeba1",
+    "lat": 37.610412,
+    "lng": 126.927088,
+    "address": "749 Fulton Street, Rosedale, Illinois, 6132",
+    "onfire": false,
+    "available": true,
+    "battery": 32
+  },
+  {
+    "id": "5b051003bd768da1a3bcee8c",
+    "lat": 37.613858,
+    "lng": 126.981185,
+    "address": "287 Brigham Street, Trona, Tennessee, 8930",
+    "onfire": false,
+    "available": false,
+    "battery": 98
+  },
+  {
+    "id": "5b051003d3d1c397b0196e8c",
+    "lat": 37.556107,
+    "lng": 127.034056,
+    "address": "321 Varick Street, Barstow, Idaho, 8377",
+    "onfire": false,
+    "available": false,
+    "battery": 87
+  },
+  {
+    "id": "5b051003c03a90f6e1d0bdd7",
+    "lat": 37.569221,
+    "lng": 127.039621,
+    "address": "980 Neptune Avenue, Bynum, New Mexico, 3544",
+    "onfire": false,
+    "available": false,
+    "battery": 76
+  },
+  {
+    "id": "5b0510034cd1b21c588f106e",
+    "lat": 37.553548,
+    "lng": 126.917775,
+    "address": "154 Cortelyou Road, Catharine, Iowa, 950",
+    "onfire": false,
+    "available": false,
+    "battery": 45
+  },
+  {
+    "id": "5b05100375470d098ed6e317",
+    "lat": 37.57475,
+    "lng": 126.972395,
+    "address": "782 Seaview Avenue, Stewartville, Oregon, 6409",
+    "onfire": false,
+    "available": false,
+    "battery": 31
+  },
+  {
+    "id": "5b05100326355a8c516a9ca8",
+    "lat": 37.529313,
+    "lng": 126.948858,
+    "address": "275 Hunterfly Place, Welch, District Of Columbia, 279",
+    "onfire": false,
+    "available": false,
+    "battery": 88
+  },
+  {
+    "id": "5b051003bdb6323c6609db6a",
+    "lat": 37.613027,
+    "lng": 126.927605,
+    "address": "732 Matthews Place, Kohatk, North Carolina, 9606",
+    "onfire": false,
+    "available": false,
+    "battery": 47
+  },
+  {
+    "id": "5b05100386cb1816e15a6565",
+    "lat": 37.624503,
+    "lng": 126.955579,
+    "address": "364 Evans Street, Elwood, Oklahoma, 5396",
+    "onfire": false,
+    "available": false,
+    "battery": 19
+  },
+  {
+    "id": "5b051003425156ff31b1d491",
+    "lat": 37.525087,
+    "lng": 126.935283,
+    "address": "238 Railroad Avenue, Savage, Connecticut, 5311",
+    "onfire": false,
+    "available": false,
+    "battery": 95
+  },
+  {
+    "id": "5b0510039b6bd5a1a047df95",
+    "lat": 37.636711,
+    "lng": 126.945671,
+    "address": "230 Bedford Place, Grahamtown, Vermont, 5168",
+    "onfire": false,
+    "available": true,
+    "battery": 24
+  },
+  {
+    "id": "5b05100313f2f6583c5987e4",
+    "lat": 37.526094,
+    "lng": 127.071837,
+    "address": "585 Hale Avenue, Ada, Wyoming, 4407",
+    "onfire": false,
+    "available": false,
+    "battery": 88
+  },
+  {
+    "id": "5b051003a8600c23941fffd8",
+    "lat": 37.555544,
+    "lng": 126.926107,
+    "address": "722 Oceanic Avenue, Homeworth, Texas, 3864",
+    "onfire": false,
+    "available": false,
+    "battery": 99
+  },
+  {
+    "id": "5b051003ccb6955e1b863f6c",
+    "lat": 37.594861,
+    "lng": 126.939002,
+    "address": "530 Arlington Place, Urbana, Michigan, 880",
+    "onfire": false,
+    "available": false,
+    "battery": 16
+  },
+  {
+    "id": "5b051003482601d0e7c92968",
+    "lat": 37.479055,
+    "lng": 127.060029,
+    "address": "362 Liberty Avenue, Crawfordsville, Colorado, 4103",
+    "onfire": false,
+    "available": true,
+    "battery": 38
+  },
+  {
+    "id": "5b0510032b569e4050c76509",
+    "lat": 37.521297,
+    "lng": 127.059076,
+    "address": "536 Rose Street, Sandston, Marshall Islands, 4911",
+    "onfire": false,
+    "available": false,
+    "battery": 100
+  },
+  {
+    "id": "5b0510036475d62f2948289e",
+    "lat": 37.637139,
+    "lng": 126.906119,
+    "address": "762 Logan Street, Greenock, Maryland, 4310",
+    "onfire": false,
+    "available": false,
+    "battery": 29
+  },
+  {
+    "id": "5b051003c4ad87f3d9435dfb",
+    "lat": 37.526094,
+    "lng": 126.933295,
+    "address": "915 Tompkins Avenue, Bascom, Utah, 9175",
+    "onfire": false,
+    "available": true,
+    "battery": 19
+  },
+  {
+    "id": "5b051003ad322e8160fe230d",
+    "lat": 37.574255,
+    "lng": 127.02266,
+    "address": "945 Lincoln Terrace, Glidden, Louisiana, 7370",
+    "onfire": false,
+    "available": true,
+    "battery": 46
+  },
+  {
+    "id": "5b0510038a4fd3a136610d6d",
+    "lat": 37.569128,
+    "lng": 126.890691,
+    "address": "673 Rutledge Street, Kilbourne, Mississippi, 387",
+    "onfire": false,
+    "available": false,
+    "battery": 82
+  },
+  {
+    "id": "5b05100328bbd4283fcc5121",
+    "lat": 37.635545,
+    "lng": 127.060921,
+    "address": "483 Wyona Street, Coinjock, Missouri, 1117",
+    "onfire": false,
+    "available": true,
+    "battery": 77
+  },
+  {
+    "id": "5b0510031dfd022efa21eaf0",
+    "lat": 37.505518,
+    "lng": 127.016127,
+    "address": "182 Trucklemans Lane, Bourg, Delaware, 1559",
+    "onfire": false,
+    "available": false,
+    "battery": 75
+  },
+  {
+    "id": "5b0510030493003ad6346319",
+    "lat": 37.487073,
+    "lng": 127.064808,
+    "address": "328 Withers Street, Blackgum, Montana, 2326",
+    "onfire": false,
+    "available": true,
+    "battery": 94
+  },
+  {
+    "id": "5b051003832ebf5abac70564",
+    "lat": 37.606395,
+    "lng": 126.987634,
+    "address": "384 Crawford Avenue, Turpin, California, 7233",
+    "onfire": false,
+    "available": false,
+    "battery": 38
+  },
+  {
+    "id": "5b051003304b5ee8f55a700f",
+    "lat": 37.614114,
+    "lng": 127.05332,
+    "address": "146 Johnson Street, Vallonia, South Carolina, 7968",
+    "onfire": false,
+    "available": true,
+    "battery": 85
+  },
+  {
+    "id": "5b051003fc5978c6e6fb57e8",
+    "lat": 37.468092,
+    "lng": 127.049091,
+    "address": "409 Roebling Street, Dragoon, South Dakota, 5228",
+    "onfire": false,
+    "available": false,
+    "battery": 69
+  },
+  {
+    "id": "5b0510030fc9d4a468ff36e7",
+    "lat": 37.518437,
+    "lng": 126.916362,
+    "address": "559 Oliver Street, Disautel, Kansas, 4242",
+    "onfire": false,
+    "available": true,
+    "battery": 31
+  },
+  {
+    "id": "5b0510035100cf175d74b076",
+    "lat": 37.548307,
+    "lng": 127.011995,
+    "address": "348 Maple Street, Coloma, Federated States Of Micronesia, 6371",
+    "onfire": false,
+    "available": true,
+    "battery": 36
+  },
+  {
+    "id": "5b05100309071df8ca72abd7",
+    "lat": 37.512386,
+    "lng": 126.978689,
+    "address": "614 Varick Avenue, Norvelt, Hawaii, 2077",
+    "onfire": false,
+    "available": false,
+    "battery": 40
+  },
+  {
+    "id": "5b0510032acfefc27dbc2c35",
+    "lat": 37.572024,
+    "lng": 126.950548,
+    "address": "512 Empire Boulevard, Greenbush, Rhode Island, 6695",
+    "onfire": false,
+    "available": true,
+    "battery": 58
+  },
+  {
+    "id": "5b0510039acc1767e18b0e22",
+    "lat": 37.468443,
+    "lng": 126.895609,
+    "address": "332 Lincoln Road, Southmont, Washington, 4328",
+    "onfire": false,
+    "available": true,
+    "battery": 13
+  },
+  {
+    "id": "5b0510035bc5fdfb13567a04",
+    "lat": 37.575595,
+    "lng": 126.970489,
+    "address": "498 Forrest Street, Enoree, Northern Mariana Islands, 8836",
+    "onfire": false,
+    "available": true,
+    "battery": 36
+  },
+  {
+    "id": "5b0510033ab0be100b165e6f",
+    "lat": 37.530516,
+    "lng": 126.926327,
+    "address": "198 Baycliff Terrace, Harold, North Dakota, 3384",
+    "onfire": false,
+    "available": false,
+    "battery": 17
+  },
+  {
+    "id": "5b05100305636816b9960c91",
+    "lat": 37.48358,
+    "lng": 126.947547,
+    "address": "555 Newkirk Placez, Dunbar, Nevada, 5701",
+    "onfire": false,
+    "available": true,
+    "battery": 59
+  },
+  {
+    "id": "5b051003686d19b87ba52779",
+    "lat": 37.542913,
+    "lng": 126.993405,
+    "address": "120 Creamer Street, Bluffview, Wisconsin, 3903",
+    "onfire": false,
+    "available": true,
+    "battery": 59
+  },
+  {
+    "id": "5b0510034f36299d92e723a1",
+    "lat": 37.599453,
+    "lng": 126.937488,
+    "address": "561 Arlington Avenue, Hardyville, New Jersey, 6418",
+    "onfire": false,
+    "available": true,
+    "battery": 85
+  },
+  {
+    "id": "5b051003fcf25581fed07a23",
+    "lat": 37.616091,
+    "lng": 126.951508,
+    "address": "473 Veterans Avenue, Gila, Ohio, 9981",
+    "onfire": false,
+    "available": false,
+    "battery": 45
+  },
+  {
+    "id": "5b0510030659e24d90b88f06",
+    "lat": 37.498881,
+    "lng": 126.994749,
+    "address": "234 Tennis Court, Craig, Florida, 5698",
+    "onfire": false,
+    "available": false,
+    "battery": 39
+  },
+  {
+    "id": "5b0510038f6af1a247eaf988",
+    "lat": 37.584267,
+    "lng": 126.988392,
+    "address": "382 Plaza Street, Evergreen, Pennsylvania, 6277",
+    "onfire": true,
+    "available": false,
+    "battery": 28
+  },
+  {
+    "id": "5b051003b3f8ad3536ad8d6c",
+    "lat": 37.533209,
+    "lng": 127.041032,
+    "address": "774 Dewitt Avenue, Barronett, Virgin Islands, 7114",
+    "onfire": false,
+    "available": false,
+    "battery": 84
+  },
+  {
+    "id": "5b0510032ffbaee11244dfec",
+    "lat": 37.505135,
+    "lng": 126.896143,
+    "address": "583 Mersereau Court, Joppa, West Virginia, 8718",
+    "onfire": true,
+    "available": false,
+    "battery": 27
+  },
+  {
+    "id": "5b0510035d6329ab88511770",
+    "lat": 37.64253,
+    "lng": 126.969228,
+    "address": "628 Moffat Street, Falconaire, New York, 2577",
+    "onfire": false,
+    "available": true,
+    "battery": 54
+  },
+  {
+    "id": "5b0510036cd08cc11f00fe24",
+    "lat": 37.475754,
+    "lng": 127.066926,
+    "address": "172 Manhattan Avenue, Jessie, Alaska, 616",
+    "onfire": false,
+    "available": true,
+    "battery": 57
+  },
+  {
+    "id": "5b051003736ea3e0a19cc4b4",
+    "lat": 37.492088,
+    "lng": 127.022434,
+    "address": "911 Stryker Street, Windsor, Kentucky, 9184",
+    "onfire": false,
+    "available": true,
+    "battery": 78
+  },
+  {
+    "id": "5b0510036f483ca9fa076054",
+    "lat": 37.552944,
+    "lng": 127.002594,
+    "address": "510 Poplar Street, Walker, Minnesota, 1298",
+    "onfire": false,
+    "available": true,
+    "battery": 57
+  },
+  {
+    "id": "5b0510031ba5aa881a08ab99",
+    "lat": 37.642584,
+    "lng": 126.942581,
+    "address": "932 Kiely Place, Fowlerville, Alabama, 7163",
+    "onfire": false,
+    "available": false,
+    "battery": 100
+  },
+  {
+    "id": "5b0510030375725895d5c4f1",
+    "lat": 37.578341,
+    "lng": 126.978154,
+    "address": "309 Herzl Street, Nanafalia, Georgia, 281",
+    "onfire": false,
+    "available": true,
+    "battery": 23
+  },
+  {
+    "id": "5b051003dd699370e0e98aa6",
+    "lat": 37.650285,
+    "lng": 126.921916,
+    "address": "816 Conselyea Street, Hayes, Palau, 7837",
+    "onfire": false,
+    "available": true,
+    "battery": 67
+  },
+  {
+    "id": "5b05100381c169f556ceeec1",
+    "lat": 37.53089,
+    "lng": 126.96492,
+    "address": "608 Randolph Street, Edgewater, New Hampshire, 9125",
+    "onfire": false,
+    "available": true,
+    "battery": 3
+  },
+  {
+    "id": "5b0510033c2bd8e04584e794",
+    "lat": 37.657237,
+    "lng": 127.050269,
+    "address": "445 Victor Road, Heil, Arkansas, 4234",
+    "onfire": false,
+    "available": false,
+    "battery": 28
+  },
+  {
+    "id": "5b051003da00656fa854a4b5",
+    "lat": 37.573974,
+    "lng": 126.914234,
+    "address": "383 Wortman Avenue, Chautauqua, Indiana, 5865",
+    "onfire": false,
+    "available": true,
+    "battery": 15
+  },
+  {
+    "id": "5b051003046167eca6a677d0",
+    "lat": 37.470363,
+    "lng": 126.974421,
+    "address": "808 Colonial Road, Worton, Guam, 3079",
+    "onfire": false,
+    "available": false,
+    "battery": 11
+  },
+  {
+    "id": "5b05100344065201624968cc",
+    "lat": 37.467949,
+    "lng": 126.917723,
+    "address": "352 Oak Street, Lydia, Maine, 2460",
+    "onfire": false,
+    "available": false,
+    "battery": 73
+  },
+  {
+    "id": "5b0510038c6cbc7fc80ca2b9",
+    "lat": 37.508897,
+    "lng": 127.001929,
+    "address": "839 Kathleen Court, Volta, American Samoa, 2976",
+    "onfire": false,
+    "available": false,
+    "battery": 85
+  },
+  {
+    "id": "5b051003da0a41bb2b574dac",
+    "lat": 37.649345,
+    "lng": 127.072324,
+    "address": "251 Quincy Street, Mathews, Arizona, 8467",
+    "onfire": false,
+    "available": false,
+    "battery": 30
+  },
+  {
+    "id": "5b051003d885952855d560a0",
+    "lat": 37.494909,
+    "lng": 126.958642,
+    "address": "572 Burnett Street, Lorraine, Puerto Rico, 5212",
+    "onfire": false,
+    "available": true,
+    "battery": 80
+  },
+  {
+    "id": "5b051003040d85554d4582ff",
+    "lat": 37.521013,
+    "lng": 127.076313,
+    "address": "732 Girard Street, Thornport, Nebraska, 9511",
+    "onfire": false,
+    "available": true,
+    "battery": 36
+  },
+  {
+    "id": "5b0510033f3ee6c134733687",
+    "lat": 37.659232,
+    "lng": 127.05328,
+    "address": "511 Congress Street, Rushford, Virginia, 8595",
+    "onfire": false,
+    "available": false,
+    "battery": 22
+  },
+  {
+    "id": "5b051003ce0d504fc9a80bef",
+    "lat": 37.46825,
+    "lng": 126.925183,
+    "address": "805 Crescent Street, Broadlands, Illinois, 8871",
+    "onfire": false,
+    "available": false,
+    "battery": 32
+  },
+  {
+    "id": "5b05100364756557be430ec1",
+    "lat": 37.587363,
+    "lng": 127.065725,
+    "address": "853 Schweikerts Walk, Marienthal, Tennessee, 8233",
+    "onfire": false,
+    "available": true,
+    "battery": 2
+  },
+  {
+    "id": "5b0510037bdda689a79f991f",
+    "lat": 37.552374,
+    "lng": 127.081605,
+    "address": "310 Sapphire Street, Troy, Idaho, 2644",
+    "onfire": false,
+    "available": false,
+    "battery": 17
+  },
+  {
+    "id": "5b051003c715d2c7c723a953",
+    "lat": 37.478093,
+    "lng": 126.955383,
+    "address": "771 Hutchinson Court, Goodville, New Mexico, 3316",
+    "onfire": false,
+    "available": false,
+    "battery": 67
+  },
+  {
+    "id": "5b051003e65e4f4a70879a27",
+    "lat": 37.495479,
+    "lng": 126.885314,
+    "address": "126 Amity Street, Deputy, Iowa, 7412",
+    "onfire": false,
+    "available": true,
+    "battery": 90
+  },
+  {
+    "id": "5b0510038276a51ec8f4b86a",
+    "lat": 37.619728,
+    "lng": 126.936996,
+    "address": "675 Argyle Road, Bloomington, Oregon, 1524",
+    "onfire": false,
+    "available": true,
+    "battery": 11
+  },
+  {
+    "id": "5b05100313196d70fa75a690",
+    "lat": 37.630245,
+    "lng": 127.078908,
+    "address": "662 Cox Place, Jackpot, District Of Columbia, 7826",
+    "onfire": false,
+    "available": false,
+    "battery": 56
+  },
+  {
+    "id": "5b0510037b985af2104aa95d",
+    "lat": 37.483,
+    "lng": 127.052522,
+    "address": "900 Grove Street, Ripley, North Carolina, 5622",
+    "onfire": false,
+    "available": true,
+    "battery": 84
+  },
+  {
+    "id": "5b051003e353517e38981a84",
+    "lat": 37.502325,
+    "lng": 126.904028,
+    "address": "523 Karweg Place, Oneida, Oklahoma, 6367",
+    "onfire": true,
+    "available": true,
+    "battery": 43
+  },
+  {
+    "id": "5b051003c8855c77c9191b30",
+    "lat": 37.644028,
+    "lng": 126.971179,
+    "address": "780 Lott Street, Coyote, Connecticut, 7858",
+    "onfire": false,
+    "available": true,
+    "battery": 7
+  },
+  {
+    "id": "5b0510034b371df591025459",
+    "lat": 37.5398,
+    "lng": 127.027586,
+    "address": "566 Hamilton Avenue, Roosevelt, Vermont, 8394",
+    "onfire": false,
+    "available": true,
+    "battery": 3
+  },
+  {
+    "id": "5b051003ea7bf124e539c988",
+    "lat": 37.60012,
+    "lng": 127.038244,
+    "address": "453 Temple Court, Bergoo, Wyoming, 2862",
+    "onfire": false,
+    "available": false,
+    "battery": 2
+  },
+  {
+    "id": "5b051003c16b6d8535f259ce",
+    "lat": 37.477661,
+    "lng": 127.058365,
+    "address": "944 Mayfair Drive, Nicut, Texas, 3704",
+    "onfire": false,
+    "available": false,
+    "battery": 7
+  },
+  {
+    "id": "5b051003ccb6b652178873b9",
+    "lat": 37.518476,
+    "lng": 127.02595,
+    "address": "359 Ryerson Street, Slovan, Michigan, 5611",
+    "onfire": false,
+    "available": true,
+    "battery": 11
+  },
+  {
+    "id": "5b051003a2efc25145390a4a",
+    "lat": 37.486258,
+    "lng": 126.966304,
+    "address": "341 Lewis Avenue, Dennard, Colorado, 8932",
+    "onfire": false,
+    "available": false,
+    "battery": 27
+  },
+  {
+    "id": "5b051003f2334f540b20262a",
+    "lat": 37.580501,
+    "lng": 127.075056,
+    "address": "561 Jerome Street, Dixonville, Marshall Islands, 962",
+    "onfire": false,
+    "available": true,
+    "battery": 91
+  },
+  {
+    "id": "5b0510030892f8961362bc12",
+    "lat": 37.626041,
+    "lng": 126.97905,
+    "address": "204 Lawrence Avenue, Dante, Maryland, 4335",
+    "onfire": false,
+    "available": false,
+    "battery": 46
+  },
+  {
+    "id": "5b05100340083f90d7f5a9c3",
+    "lat": 37.616757,
+    "lng": 127.029782,
+    "address": "379 McDonald Avenue, Rockbridge, Utah, 8897",
+    "onfire": false,
+    "available": true,
+    "battery": 90
+  },
+  {
+    "id": "5b051003ce9e0bf27bdd4fc9",
+    "lat": 37.537187,
+    "lng": 127.078886,
+    "address": "616 Dearborn Court, Sabillasville, Louisiana, 2340",
+    "onfire": false,
+    "available": false,
+    "battery": 42
+  },
+  {
+    "id": "5b051003f0703782310e243f",
+    "lat": 37.613103,
+    "lng": 126.925009,
+    "address": "134 Surf Avenue, Sisquoc, Mississippi, 7157",
+    "onfire": false,
+    "available": true,
+    "battery": 95
+  },
+  {
+    "id": "5b051003a44b446e64e60894",
+    "lat": 37.63652,
+    "lng": 126.997042,
+    "address": "446 Freeman Street, Orick, Missouri, 6028",
+    "onfire": false,
+    "available": true,
+    "battery": 69
+  },
+  {
+    "id": "5b0510038f01e2cef9c4d1e5",
+    "lat": 37.472947,
+    "lng": 126.925542,
+    "address": "751 Grafton Street, Roulette, Delaware, 7196",
+    "onfire": false,
+    "available": true,
+    "battery": 98
+  },
+  {
+    "id": "5b0510032c231e7e6734136a",
+    "lat": 37.534789,
+    "lng": 126.994762,
+    "address": "738 Ashford Street, Soudan, Montana, 3884",
+    "onfire": true,
+    "available": true,
+    "battery": 43
+  },
+  {
+    "id": "5b051003c66ea80e55e0ff55",
+    "lat": 37.47586,
+    "lng": 126.977121,
+    "address": "847 Ovington Court, Muse, California, 5187",
+    "onfire": false,
+    "available": false,
+    "battery": 33
+  },
+  {
+    "id": "5b05100373fa5f42d6aca2ec",
+    "lat": 37.519023,
+    "lng": 127.080644,
+    "address": "333 Dekalb Avenue, Wanamie, South Carolina, 4754",
+    "onfire": false,
+    "available": false,
+    "battery": 17
+  }
+]
